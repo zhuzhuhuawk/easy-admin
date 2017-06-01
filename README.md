@@ -2,9 +2,11 @@
 
 [Easy-Admin](https://github.com/happen-zhang/easy-admin)是一个通用的后台信息管理系统。
 
+
 ## 修改记录 ##
 
-2017年6月1日 拷贝原版
+<font color=#0099ff size=12 face="黑体">2017年6月1日 拷贝原版</font>
+
 
 
 
